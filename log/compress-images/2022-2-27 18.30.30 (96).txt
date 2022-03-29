@@ -1,0 +1,8 @@
+File from: [img/temp.png]
+
+File to: [imagestemp.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: Command failed: J:\node\upload\node_modules\pngquant-bin\vendor\pngquant.exe --quality=20-50 -o imagestemp.png img/temp.png
+  error: failed writing image to imagestemp.png (16)
